@@ -1,0 +1,6 @@
+{
+  "mongoConfig": {
+    "serverUrl": "mongodb+srv://kandulacharanraj:DmYIxD6yrqhrSDa9@cluster0.ydvul7t.mongodb.net/",
+    "database": "IGSCF_DB"
+  }
+}
