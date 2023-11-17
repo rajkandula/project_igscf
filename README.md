@@ -1,5 +1,12 @@
 # project_igscf
+
+•	Developed a responsive fellowship website with an admin dashboard to manage the inside content using Express.js, Handlebars, MongoDB & Mongoose, and Firebase.
+•	Used Mongoose to store images and document files on the website.
+
+
+
 Developed organization website, 
+
 Project Demonstration Video - https://youtu.be/s_ZAJtUlqoA?feature=shared
 
 { The real project code is not public, this repo is just basic sample codes }
