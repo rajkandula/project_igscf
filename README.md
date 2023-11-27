@@ -9,7 +9,7 @@ Developed organization website,
 
 Project Demonstration Video - https://youtu.be/s_ZAJtUlqoA?feature=shared
 
-{ The real project code is not public, this repo is just basic sample codes }
+{ The real project code is not public, this repo is to show the work I have done into this project }
 
 <img width="403" alt="admin_page" src="https://github.com/rajkandula/project_igscf/assets/112989454/76f8ba0c-5ac1-4ab3-aa32-e5fb16bbdfc3">
 <img width="1403" alt="Home_page" src="https://github.com/rajkandula/project_igscf/assets/112989454/1c03c594-4d43-4472-8fc2-dded42efd2e9">
